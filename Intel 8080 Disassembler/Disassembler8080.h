@@ -1,5 +1,5 @@
 /*Faculdade de Tecnologia da Universidade Estadual de Campinas (FT-Unicamp)
-  Gabriel Sales - 248008
+  Gabriel Sales - RA: 
 
 Este programa deverá um fluxo de valores hex e convertê-los em seus símbolos em assembly. 
 O programa receberá como argumentos um ponteiro para o endereço de memória onde os códigos 
