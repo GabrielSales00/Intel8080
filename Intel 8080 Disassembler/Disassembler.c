@@ -25,7 +25,6 @@ int main(int argc, char **argv) {
     fread(mem, size, 1, hex);
     fclose(hex);
     //imprime a tradução de hex para assembly legível
-    printf("stream Raven by Kelela feb. 10\n");
     printf("\n");
     for(i = 0; i < size; i) {
         i += dissassemblerIntel8080(mem, i);
