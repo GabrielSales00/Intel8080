@@ -8,10 +8,10 @@ int main(int argc, char **argv) {
     unsigned char *mem;
     hex = fopen(argv[1], "rb");
     if (hex == NULL) {
-        printf("That didn't work\n");
+        printf("ouu that's not-\n");
     }
     else {
-        printf("working on it\n");
+        printf("we are so back!\n");
         printf("\n");
     }
     //descobrir quantidade de caracteres para usar em funções posteriores
